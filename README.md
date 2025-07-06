@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./travel-app/readme-images/desktop.png "Desktop Demo")
+<img src="./travel-app/readme-images/desktop.png" />
 
 
 ### Run Locally
