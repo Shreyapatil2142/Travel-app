@@ -1,5 +1,5 @@
 
-  <img src="./readme-images/project-logo.png" />
+  <img src="./travel-app/readme-images/project-logo.png" />
 
   <h2 align="center">Tourly - Travel website</h2>
 
@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourly Desktop Demo](./travel-app/readme-images/desktop.png "Desktop Demo")
 
 
 ### Run Locally
